@@ -1,1 +1,1 @@
-web: mpiaflask.wsgi
+web: wsgi:mpiaflask
